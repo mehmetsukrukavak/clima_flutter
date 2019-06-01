@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: androidx.test:runner:1.1.0-alpha4@aar" type="AndroidModuleLibraryType">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.1.0-alpha4.aar/c7e3ba1101e9eda0c68287411d2721a5/jars/classes.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

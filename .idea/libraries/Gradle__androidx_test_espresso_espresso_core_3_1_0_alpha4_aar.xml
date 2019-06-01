@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: androidx.test.espresso:espresso-core:3.1.0-alpha4@aar" type="AndroidModuleLibraryType">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/espresso-core-3.1.0-alpha4.aar/e16fca417c288f3efe25d951b2a14856/jars/classes.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

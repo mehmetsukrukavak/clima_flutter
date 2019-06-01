@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: androidx.test:monitor:1.1.0-alpha4@aar" type="AndroidModuleLibraryType">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/monitor-1.1.0-alpha4.aar/dd40de35117a43c7cfa571b2a4e17ba5/jars/classes.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
