@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mehmetsukrukavak/Desktop/flutter/clima_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml",
+            "outputFile": "D:\\flutter\\clima_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl\\values-gl.xml",
             "map": [
                 {
-                    "source": "/Users/mehmetsukrukavak/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/6938b87d4a39472b4319e34c6d6facdd/res/values-gl/values-gl.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "2875",
-                        "endColumns": "100",
-                        "endOffsets": "2971"
-                    }
-                },
-                {
-                    "source": "/Users/mehmetsukrukavak/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/264e2366b7b55694e2246457fc59d2e3/res/values-gl/values.xml",
+                    "source": "C:\\Users\\Procenne10\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\401a0c9d6db09097f49da2f2f0993174\\res\\values-gl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/mehmetsukrukavak/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d5aa2b9448d4aec487332d37221aac22/res/values-gl/values.xml",
+                    "source": "C:\\Users\\Procenne10\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.2.aar\\eefebadd6348c7c94fa77c881c63242e\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2875",
+                        "endColumns": "100",
+                        "endOffsets": "2971"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Procenne10\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.0.1.aar\\61328a0a456d2c7e4be4c716a7c7ac5c\\res\\values-gl\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

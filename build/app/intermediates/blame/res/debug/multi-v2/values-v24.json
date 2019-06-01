@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mehmetsukrukavak/Desktop/flutter/clima_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "D:\\flutter\\clima_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/mehmetsukrukavak/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/09904f98e80025a5a10b1f9a7d5ba33c/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\Procenne10\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\333d640096b866c209e09947bef94e2e\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

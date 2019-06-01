@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mehmetsukrukavak/Desktop/flutter/clima_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
+            "outputFile": "D:\\flutter\\clima_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
-                    "source": "/Users/mehmetsukrukavak/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/6938b87d4a39472b4319e34c6d6facdd/res/values-sk/values-sk.xml",
+                    "source": "C:\\Users\\Procenne10\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.0.1.aar\\61328a0a456d2c7e4be4c716a7c7ac5c\\res\\values-sk\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "197",
+                        "endOffsets": "444"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1262",
+                        "endColumns": "197",
+                        "endOffsets": "1455"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Procenne10\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.2.aar\\eefebadd6348c7c94fa77c881c63242e\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mehmetsukrukavak/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/264e2366b7b55694e2246457fc59d2e3/res/values-sk/values.xml",
+                    "source": "C:\\Users\\Procenne10\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\401a0c9d6db09097f49da2f2f0993174\\res\\values-sk\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -35,23 +52,6 @@
                         "startOffsets": "105,213,405,531,643,858,988,1131,1460,1688,1801,2002,2134,2356,2550,2648,2745",
                         "endColumns": "107,191,125,111,214,129,142,130,227,112,200,131,221,193,97,96,115",
                         "endOffsets": "208,400,526,638,853,983,1126,1257,1683,1796,1997,2129,2351,2545,2643,2740,2856"
-                    }
-                },
-                {
-                    "source": "/Users/mehmetsukrukavak/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d5aa2b9448d4aec487332d37221aac22/res/values-sk/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "197",
-                        "endOffsets": "444"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1262",
-                        "endColumns": "197",
-                        "endOffsets": "1455"
                     }
                 }
             ]

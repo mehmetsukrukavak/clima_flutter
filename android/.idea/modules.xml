@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/repos/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.0/android/geolocator.iml" filepath="C:/repos/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.0.0/android/geolocator.iml" />
+      <module fileurl="file://C:/repos/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/android/google_api_availability.iml" filepath="C:/repos/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/android/google_api_availability.iml" />
+      <module fileurl="file://C:/repos/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.1/android/location_permissions.iml" filepath="C:/repos/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.1/android/location_permissions.iml" />
     </modules>
   </component>
 </project>
