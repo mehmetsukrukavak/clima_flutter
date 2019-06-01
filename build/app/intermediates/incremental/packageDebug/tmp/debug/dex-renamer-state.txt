@@ -1,4 +1,4 @@
-#Sat Jun 01 18:23:35 EET 2019
+#Sat Jun 01 19:25:46 EET 2019
 base.0=D\:\\flutter\\clima_flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
